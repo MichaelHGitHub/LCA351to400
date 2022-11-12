@@ -441,6 +441,14 @@ struct TD_I_I_I
     int output;
 };
 
+struct TD_I_I_I_B
+{
+    int input;
+    int input2;
+    int input3;
+    bool output;
+};
+
 struct TD_I_I_VVI
 {
     int input;
@@ -696,6 +704,9 @@ void CheckResults(TD_I_I testData, int result);
 
 void PrintInput(TD_I_I_I testData);
 void CheckResults(TD_I_I_I testData, int result);
+
+void PrintInput(TD_I_I_I_B testData);
+void CheckResults(TD_I_I_I_B testData, bool result);
 
 
 void PrintInput(TD_I_I_VVI testData);

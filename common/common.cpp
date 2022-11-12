@@ -363,7 +363,41 @@ void PrintInput(TD_I_I_I testData)
 
 void CheckResults(TD_I_I_I testData, int result)
 {
+    std::cout << "Output: ";
+    PrintData(result);
+    std::cout << endl;
 
+    if (testData.output == result)
+    {
+        std::cout << "Succeeded!" << endl;
+    }
+    else
+    {
+        std::cout << "***Failed!***" << endl;
+        std::cout << "Expect: ";
+        PrintData(testData.output);
+        std::cout << endl;
+    }
+
+    std::cout << endl;
+}
+
+void PrintInput(TD_I_I_I_B testData)
+{
+    std::cout << "Input1 :";
+    PrintData(testData.input);
+    std::cout << endl;
+
+    std::cout << "Input2 :";
+    PrintData(testData.input2);
+    std::cout << endl;
+
+    std::cout << "Input3 :";
+    PrintData(testData.input3);
+    std::cout << endl;
+}
+void CheckResults(TD_I_I_I_B testData, bool result)
+{
     std::cout << "Output: ";
     PrintData(result);
     std::cout << endl;
