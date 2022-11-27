@@ -6,7 +6,7 @@ void PrepareTestData(vector<TD_I_VI_I>& testData)
 
     data.input = 2147483647;
     data.input2 = { 2, 0, 0 };
-    data.output = 1135;
+    data.output = 1198;
     testData.push_back(data);
 
     data.input = 2;
