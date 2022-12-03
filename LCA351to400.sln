@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "371_Sum_of_Two_Integers", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "372_Super_Pow", "372_Super_Pow\372_Super_Pow.vcxproj", "{6B9AAB3E-DE8D-47AB-B46E-0CDC525CE78D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "373_Find_K_Pairs_Smallest_Sums", "373_Find_K_Pairs_Smallest_Sums\373_Find_K_Pairs_Smallest_Sums.vcxproj", "{05441E95-D5C9-42FD-A679-AA98007B6339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{6B9AAB3E-DE8D-47AB-B46E-0CDC525CE78D}.Release|x64.Build.0 = Release|x64
 		{6B9AAB3E-DE8D-47AB-B46E-0CDC525CE78D}.Release|x86.ActiveCfg = Release|Win32
 		{6B9AAB3E-DE8D-47AB-B46E-0CDC525CE78D}.Release|x86.Build.0 = Release|Win32
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Debug|x64.ActiveCfg = Debug|x64
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Debug|x64.Build.0 = Debug|x64
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Debug|x86.ActiveCfg = Debug|Win32
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Debug|x86.Build.0 = Debug|Win32
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Release|x64.ActiveCfg = Release|x64
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Release|x64.Build.0 = Release|x64
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Release|x86.ActiveCfg = Release|Win32
+		{05441E95-D5C9-42FD-A679-AA98007B6339}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
