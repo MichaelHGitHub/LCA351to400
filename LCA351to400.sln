@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "382_Linked_List_Random_Node
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "383_Ransom_Note", "383_Ransom_Note\383_Ransom_Note.vcxproj", "{67CAE905-F718-4DFA-8C25-F7A82D45395D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "384_Shuffle_an_Array", "384_Shuffle_an_Array\384_Shuffle_an_Array.vcxproj", "{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{67CAE905-F718-4DFA-8C25-F7A82D45395D}.Release|x64.Build.0 = Release|x64
 		{67CAE905-F718-4DFA-8C25-F7A82D45395D}.Release|x86.ActiveCfg = Release|Win32
 		{67CAE905-F718-4DFA-8C25-F7A82D45395D}.Release|x86.Build.0 = Release|Win32
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Debug|x64.ActiveCfg = Debug|x64
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Debug|x64.Build.0 = Debug|x64
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Debug|x86.Build.0 = Debug|Win32
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Release|x64.ActiveCfg = Release|x64
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Release|x64.Build.0 = Release|x64
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Release|x86.ActiveCfg = Release|Win32
+		{58D87A7F-B0AB-4E36-A5EC-CDDE7E2236E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
