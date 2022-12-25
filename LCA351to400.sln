@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "385_Mini_Parser", "385_Mini
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "386_Lexicographical_Numbers", "386_Lexicographical_Numbers\386_Lexicographical_Numbers.vcxproj", "{9F9234E0-15FB-4A8B-82AD-0C539D6CA11E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "387_First_Unique_Character", "387_First_Unique_Character\387_First_Unique_Character.vcxproj", "{55826D35-BF53-4039-8751-0B5AB90AEB5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{9F9234E0-15FB-4A8B-82AD-0C539D6CA11E}.Release|x64.Build.0 = Release|x64
 		{9F9234E0-15FB-4A8B-82AD-0C539D6CA11E}.Release|x86.ActiveCfg = Release|Win32
 		{9F9234E0-15FB-4A8B-82AD-0C539D6CA11E}.Release|x86.Build.0 = Release|Win32
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Debug|x64.ActiveCfg = Debug|x64
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Debug|x64.Build.0 = Debug|x64
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Debug|x86.Build.0 = Debug|Win32
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Release|x64.ActiveCfg = Release|x64
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Release|x64.Build.0 = Release|x64
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Release|x86.ActiveCfg = Release|Win32
+		{55826D35-BF53-4039-8751-0B5AB90AEB5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
