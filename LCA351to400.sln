@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "390_Elimination_Game", "390
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "392_Is_Subsequence", "392_Is_Subsequence\392_Is_Subsequence.vcxproj", "{0271F067-C6A7-45A7-ABB6-1F766CAEED26}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "393_UTF-8_Validation", "393_UTF-8_Validation\393_UTF-8_Validation.vcxproj", "{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{0271F067-C6A7-45A7-ABB6-1F766CAEED26}.Release|x64.Build.0 = Release|x64
 		{0271F067-C6A7-45A7-ABB6-1F766CAEED26}.Release|x86.ActiveCfg = Release|Win32
 		{0271F067-C6A7-45A7-ABB6-1F766CAEED26}.Release|x86.Build.0 = Release|Win32
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Debug|x64.ActiveCfg = Debug|x64
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Debug|x64.Build.0 = Debug|x64
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Debug|x86.Build.0 = Debug|Win32
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Release|x64.ActiveCfg = Release|x64
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Release|x64.Build.0 = Release|x64
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Release|x86.ActiveCfg = Release|Win32
+		{ADA83FC2-BE5A-4A36-BBBC-B629185CECFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
