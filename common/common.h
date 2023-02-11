@@ -679,6 +679,14 @@ struct TD_VVC_VVC
     vector<vector<char>> output;
 };
 
+struct TD_VVS_VD_VVS_VD
+{
+    vector<vector<string>> input;
+    vector<double> input2;
+    vector<vector<string>> input3;
+    vector<double> output;
+};
+
 void PrintInput(TD_N_VI data);
 void CheckResults(TD_N_VI data, TreeLinkNode* node);
 bool CheckResult(vector<int> output, TreeLinkNode* result);
@@ -944,4 +952,5 @@ void CheckResults(TD_VL_L testData, ListNode* result);
 void PrintInput(TD_G_G testData);
 void CheckResults(TD_G_G testData, GraphNode* result);
 
-
+void PrintInput(TD_VVS_VD_VVS_VD testData);
+void CheckResults(TD_VVS_VD_VVS_VD testData, vector<double> result);
