@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "397_Integer_Replacement", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "399_Evaluate_Division", "399_Evaluate_Division\399_Evaluate_Division.vcxproj", "{8B31E847-AC4F-4F69-AA71-D9DEBFEB21A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "400_Nth_Digit", "400_Nth_Digit\400_Nth_Digit.vcxproj", "{9A8B343E-8703-4A6C-9D26-CFFB618AD538}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{8B31E847-AC4F-4F69-AA71-D9DEBFEB21A4}.Release|x64.Build.0 = Release|x64
 		{8B31E847-AC4F-4F69-AA71-D9DEBFEB21A4}.Release|x86.ActiveCfg = Release|Win32
 		{8B31E847-AC4F-4F69-AA71-D9DEBFEB21A4}.Release|x86.Build.0 = Release|Win32
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Debug|x64.ActiveCfg = Debug|x64
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Debug|x64.Build.0 = Debug|x64
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Debug|x86.Build.0 = Debug|Win32
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Release|x64.ActiveCfg = Release|x64
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Release|x64.Build.0 = Release|x64
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Release|x86.ActiveCfg = Release|Win32
+		{9A8B343E-8703-4A6C-9D26-CFFB618AD538}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
